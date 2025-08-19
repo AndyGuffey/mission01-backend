@@ -24,7 +24,7 @@ It acts as a secure proxy between the frontend and Azure Custom Vision, keeping 
 
 > **Note:**  
 > This is the backend for Tina Bot Car Classifier.  
-> To use the full application, you will also need the [frontend repository](https://github.com/AndyGuffey/mission-01).
+> To use the full application, you will also need the [frontend repository](https://github.com/AndyGuffey/mission01-turners-ai-car-classifier).
 
 > **You must have your own Azure Custom Vision Prediction Endpoint and Prediction Key to run this backend.**
 
